@@ -1,0 +1,37 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+venv/
+.env/
+lib/
+lib64
+bin/
+include/
+pyvenv.cfg
+
+# IDE and editor files
+.vscode/
+*.swp
+*.swo
+*.idea/
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+*.orig
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Byte-compiled files
+*.pyc
+
+# Scapy-specific temporary files (if any)
+*.pcap
+scapy.code-workspace
+share/man/man1/scapy.1
